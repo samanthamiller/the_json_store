@@ -2,34 +2,24 @@
  *  json store                 *
 \*****************************************************/
 body {
-  font-family: "Lucida Grande", Lucida, Helvetica, Arial, sans-serif;
-  background: #FFF;
+  font-family: "Helvetica Neue", Lucida, Helvetica, Arial, sans-serif;
+  background: #F2D7AC;
   color: #333;
   margin: 0px;
   padding: 0px;
 }
 
 #header {
-  background: #C97E41;
+  background: #3D1711;
   margin: 0px;
   padding: 20px;
 }
 #header h1 {
-  font-family: Inconsolata, Monaco, Courier, mono;
-  color: #FFF;
+  font-family: "Helvetica Neue", Monaco, Courier, mono;
+  color: #F2D7AC;
   margin: 0px;
 }
-#header .cart-info {
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  text-align: right;
-  padding: 10px;
-  background: #714625;
-  color: #FFF;
-  font-size: 12px;
-  font-weight: bold;
-}
+
 img {
   border: 0;
 }
@@ -40,10 +30,10 @@ img {
   text-align:center;
   font-size: 12px;
 }
-.item-title {
+.item-bookTitle {
   font-weight: bold;
 }
-.item-artist {
+.item-author {
   font-weight: bold;
   font-size: 14px;
 }

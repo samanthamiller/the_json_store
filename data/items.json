@@ -1,34 +1,83 @@
 [
   {
-    "title": "The Door",
-    "artist": "Religious Knives",
-    "image": "http://ecx.images-amazon.com/images/I/51og8BkN8jL._SS250_.jpg",
-    "large_image": "http://ecx.images-amazon.com/images/I/51og8BkN8jL._SS500_.jpg",
-    "price": 9.98,
-    "url": "http://www.amazon.com/Door-Religious-Knives/dp/B001FGW0UQ/?tag=quirkey-20"
+    "bookTitle": "Odd Thomas",
+    "author": "Dean Koontz",
+    "image": "images/sm_OddThomas.jpg",
+    "detailImage": "images/sm_OddThomas.jpg",
+    "price": 8.91,
+    "bookRating": "Rating - 4.5/5 "
   },
   {
-    "title": "Album",
-    "artist": "Girls",
-    "image": "http://ecx.images-amazon.com/images/I/51hDxOeIeML._SS250_.jpg",
-    "large_image": "http://ecx.images-amazon.com/images/I/51hDxOeIeML._SS500_.jpg",
-    "price": 13.98,
-    "url": "http://www.amazon.com/gp/product/B002GNOMJE?ie=UTF8&tag=quirkeycom-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002GNOMJE"
+    "bookTitle": "Forever Odd",
+    "author": "Dean Koontz",
+    "image": "images/ForeverOdd.jpg",
+    "detailImage": "images/ForeverOdd.jpg",
+    "price": 8.99,
+    "bookRating": "Rating - 4/5"
   },
   {
-    "title": "Bitte Orca",
-    "artist": "The Dirty Projectors",
-    "image": "http://z2-ec2.images-amazon.com/images/P/B0026T4RTI.01._SS250_.jpg",
-    "large_image": "http://z2-ec2.images-amazon.com/images/P/B0026T4RTI.01._SS500_.jpg",
-    "price": 13.98,
-    "url": "http://www.amazon.com/Bitte-Orca-Dirty-Projectors/dp/B0026T4RTI/ref=pd_sim_m_12?tag=quirkey-20"
+    "bookTitle": "Brother Odd",
+    "author": "Dean Koontz",
+    "image": "images/BrotherOdd.jpg",
+    "detailImage": "images/BrotherOdd.jpg",
+    "price": 8.99,
+    "bookRating": "Rating - 4/5"
   },
   {
-    "title": "The Pains of Being Pure at Heart",
-    "artist": "The Pains of Being Pure at Heart",
-    "image": "http://z2-ec2.images-amazon.com/images/P/B001LGXIDS.01._SS250_.jpg",
-    "large_image": "http://z2-ec2.images-amazon.com/images/P/B001LGXIDS.01._SS500_.jpg",
-    "price": 13.99,
-    "url": "http://www.amazon.com/Pains-Being-Pure-Heart/dp/B001LGXIDS/ref=pd_sim_m_44?tag=quirkey-20"
-  }
+    "bookTitle": "Odd Hours",
+    "author": "Dean Koontz",
+    "image": "images/OddHours.jpg",
+    "detailImage": "images/OddHours.jpg",
+    "price": 8.99,
+    "bookRating": "Rating - 4/5"
+  },
+  {
+    "bookTitle": "Odd Interlude",
+    "author": "Dean Koontz",
+    "image": "images/Odd-Interlude-mm-cover.jpg",
+    "detailImage": "images/Odd-Interlude-mm-cover.jpg",
+    "price": 5.19,
+    "bookRating": "Rating - 4.5/5"
+  },
+  {
+    "bookTitle": "Odd Apocalypse",
+    "author": "Dean Koontz",
+    "image": "images/Odd-Apocalypse-mm.jpg",
+    "detailImage": "images/Odd-Apocalypse-mm.jpg",
+    "price": 20.97,
+    "bookRating": "Rating - 4/5"
+    },
+  {
+    "bookTitle": "In Odd We Trust",
+    "author": "Dean Koontz",
+    "image": "images/InOddWeTrust.jpg",
+    "detailImage": "images/InOddWeTrust.jpg",
+    "price": 9.34,
+    "bookRating": "Rating - 3/5"
+  },
+  {
+    "bookTitle": "Odd is On Our Side",
+    "author": "Dean Koontz",
+    "image": "images/OddisonOurSide.jpg",
+    "detailImage": "images/OddisonOurSide.jpg",
+    "price": 9.49,
+    "bookRating": "Rating - 2.5/5"
+  },
+  {
+    "bookTitle": "House of Odd",
+    "author": "Dean Koontz",
+    "image": "images/HouseOfOdd.jpg",
+    "detailImage": "images/HouseOfOdd.jpg",
+    "price": 9.81,
+    "bookRating": "Rating - 3/5"
+  },
+  {
+    "bookTitle": "Deeply Odd",
+    "author": "Dean Koontz",
+    "image": "images/DeeplyOdd.jpg",
+    "detailImage": "images/DeeplyOdd.jpg",
+    "price": 15.89,
+    "bookRating": "Rating - 4.5/5"
+  }  
+
 ]

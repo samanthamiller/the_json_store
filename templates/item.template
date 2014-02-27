@@ -1,8 +1,8 @@
 <div class="item">
   <div class="item-image">
-    <a href="#/item/<%= id %>"><img src="<%= item.image %>" alt="<%= item.title %>" /></a>
+    <a href="#/item/<%= id %>"><img src="<%= item.image %>" alt="<%= item.bookTitle %>" /></a>
   </div>
-  <div class="item-artist"><%= item.artist %></div>
-  <div class="item-title"><%= item.title %></div>
+  <div class="item-bookTitle"><%= item.bookTitle %></div>
+  <div class="item-author"><%= item.author %></div>
   <div class="item-price">$<%= item.price %></div>
 </div>
